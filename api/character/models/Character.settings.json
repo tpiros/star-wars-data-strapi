@@ -1,0 +1,46 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "character",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    },
+    "alliance": {
+      "type": "string"
+    },
+    "species": {
+      "type": "string"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "height": {
+      "type": "integer"
+    },
+    "weapon": {
+      "type": "string"
+    },
+    "homeworld": {
+      "type": "string"
+    },
+    "bio": {
+      "type": "text"
+    },
+    "image": {
+      "type": "string"
+    },
+    "favourite": {
+      "type": "boolean"
+    }
+  }
+}
